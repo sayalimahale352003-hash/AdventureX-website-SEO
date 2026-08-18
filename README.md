@@ -5,7 +5,7 @@ AdventureX is a responsive adventure travel landing page designed to showcase ex
 This project was developed as part of my internship at Valentius Kryptix.
 
 🌐 Live Demo <br>
-https://sayalimahale352003-hash.github.io/travelgo-landing-page/
+ https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/
 
 **📌 Project Overview**
 
