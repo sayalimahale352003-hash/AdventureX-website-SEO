@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sayalimahale352003-hash.github.io/AdventureX/sitemap.xml
