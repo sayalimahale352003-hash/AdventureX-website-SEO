@@ -77,4 +77,16 @@ Example:
   "logo": "https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/images/hero.png"
 }
 
-### 6. Structured Data
+### 6. XML Sitemap
+
+A valid XML sitemap has been created to help search engines discover and
+crawl the website.
+
+🔗 **[View Sitemap](https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/sitemap.xml)**
+
+### 7. Robots.txt
+
+A `robots.txt` file has been configured to allow search engine crawlers
+and provide the location of the XML sitemap.
+
+🔗 **[View Robots.txt](https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/robots.txt)**
