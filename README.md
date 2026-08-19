@@ -1,80 +1,78 @@
-# travelgo-landing-page
-AdventureX — HTML/CSS Landing Page
-AdventureX is a responsive adventure travel landing page designed to showcase exciting outdoor activities, popular destinations, customer experiences, and an easy booking process.
+# AdventureX – SEO Optimized Travel Website
 
-This project was developed as part of my internship at Valentius Kryptix.
+AdventureX is a responsive adventure travel landing page optimized for
+on-page SEO, social media sharing, structured data, crawling, and indexing.
 
-🌐 Live Demo <br>
- https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/
+## 🌐 Live Demo
 
-**📌 Project Overview**
+https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/
 
-The AdventureX landing page provides users with an engaging and responsive interface for discovering adventure activities and travel destinations.
+## 🎯 Project Objective
 
-The website includes:<br>
-1.Responsive navigation bar <br> 
-2.hero section with call-to-action <br>
-3.Adventure activities section <br>
-4.Popular destinations <br>
-5.4-step booking process <br>
-6.Customer testimonials <br>
-7.Final call-to-action section <br>
-8.Responsive footer <br>
-9.Mobile hamburger menu <br>
-10.Hover effects and animations <br>
+The objective of this project is to optimize an existing travel landing page
+for search engines by implementing proper on-page SEO practices.
 
-**🛠️ Technologies Used** <br> 
-1.HTML5 <br>
-2.CSS3 <br>
-3.JavaScript <br>
-4.Google Fonts <br>
-5.Font Awesome <br>
+The project includes:
 
-**📱 Responsive Design** <br>
-The website is designed to work across different screen sizes: <br>
-📱 Mobile — 375px+ <br>
-📱 Tablet — 768px+ <br>
-💻 Desktop — 1280px+ <br>
-CSS media queries, Grid, and Flexbox are used to create the responsive layouts. <br>
+- SEO-friendly title and meta description
+- Open Graph metadata
+- Twitter/X metadata
+- Schema.org JSON-LD structured data
+- XML sitemap
+- robots.txt
+- Proper heading hierarchy
+- Image alt attributes
+- Canonical URL
+- Responsive web design
 
-**✨ Key Features** <br>
-**Responsive Navbar**-The navigation bar includes links to the main sections of the website and a mobile hamburger menu.
+## ✨ SEO Features
 
-**Hero Section**-A visually engaging hero section introduces AdventureX with a clear headline, description, call-to-action, and adventure image.
+### 1. SEO Title
 
-**Adventure Activities**-Users can explore activities such as:
-Trekking
-Sky Diving
-Scuba Diving
-Camping
+A descriptive and SEO-friendly page title has been added:
 
-**Popular Destinations**-The website showcases destinations including:
-Manali, India
-Switzerland
-Bali, Indonesia
-New Zealand
-Iceland
+`AdventureX | Adventure Travel & Outdoor Experiences`
 
-**How It Works** <br>
-The booking process is presented in four simple steps: <br>
-Choose Destination <br>
-Select Date <br>
-Confirm Booking <br>
-Start Adventure <br>
+### 2. Meta Description
 
-**🎯 Key Learnings** <br>
+A descriptive meta description has been added to explain the content of
+the AdventureX website to search engines.
 
-**Through this project, I learned:** <br>
-How to create responsive layouts using CSS Grid, Flexbox, and media queries. <br>
-How to build a consistent design system using reusable CSS variables, typography, colors, spacing, and hover effects. <br>
-How to implement a responsive mobile navigation menu using JavaScript. <br>
-How to organize a complete landing page into reusable and structured sections. <br>
+### 3. Open Graph Metadata
 
-**👩‍💻 Internship Project** <br>
+Open Graph tags have been implemented for better social media link previews.
 
-**Internship:** Valentius Kryptix <br>
-**Project:** HTML/CSS Landing Page <br>
-**Project Name:** AdventureX <br>
+Implemented properties:
 
-**📄 License** <br>
-This project was created for educational and internship purposes.
+- `og:title`
+- `og:description`
+- `og:image`
+- `og:url`
+- `og:type`
+- `og:site_name`
+- `og:image:alt`
+
+### 4. Twitter/X Metadata
+
+Twitter/X card metadata has been added:
+
+- `twitter:card`
+- `twitter:title`
+- `twitter:description`
+- `twitter:image`
+
+### 5. Structured Data
+
+Schema.org JSON-LD structured data has been implemented using the
+`Organization` schema.
+
+Example:
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AdventureX",
+  "url": "https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/",
+  "logo": "https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/images/hero.png"
+}
