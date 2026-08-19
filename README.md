@@ -76,3 +76,21 @@ Example:
   "url": "https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/",
   "logo": "https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/images/hero.png"
 }
+
+6. XML Sitemap
+
+A sitemap.xml file has been created to help search engines discover the
+website.
+
+Sitemap:
+
+https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/sitemap.xml
+
+7. Robots.txt
+
+A robots.txt file has been created to allow search engine crawlers to
+access the website and locate the sitemap.
+
+Robots file:
+
+https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/robots.txt
