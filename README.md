@@ -31,6 +31,7 @@ https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/
 ## 🔍 Validation
 
 - Schema.org Organization: **0 Errors, 0 Warnings**
+  ![Schema Validation]("C:\Users\Admin\Downloads\schema-validation.png")
 - Open Graph metadata tested with Facebook Sharing Debugger
 - Sitemap and robots.txt publicly accessible
 
