@@ -39,8 +39,10 @@ https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/
 - [Sitemap.xml](https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/sitemap.xml)
 - [Robots.txt](https://sayalimahale352003-hash.github.io/AdventureX-website-SEO/robots.txt)
 
-## 👩‍💻 Author
+## 👩‍💻 Internship Project
 
-**Sayali Mahale**
+**Internship:** Valentius Kryptix
 
-M.Tech Computer Engineering
+## 📄 License
+
+This project was created for educational and internship purposes.
